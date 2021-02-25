@@ -1,2 +1,2 @@
-# DigitalClock-ReactHooks
+# ReactHooks-DigitalClock
 Created with CodeSandbox
